@@ -312,9 +312,8 @@ Once comfortable with this setup, here's how to level up:
 
 ---
 
-## 👤 Author
+## 👤 Muhammad Azkar
 
-**muhammad azkar**
-[Muhammad azkar](https://www.linkedin.com/in/muhammad-azkar-803672243) ·
+[MY-LINKEDIN](https://www.linkedin.com/in/muhammad-azkar-803672243) ·
 ---
 
