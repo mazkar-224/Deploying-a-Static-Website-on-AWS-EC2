@@ -314,11 +314,7 @@ Once comfortable with this setup, here's how to level up:
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
-
+**muhammad azkar**
+[Muhammad azkar](https://www.linkedin.com/in/muhammad-azkar-803672243) ·
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
