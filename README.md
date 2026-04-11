@@ -296,21 +296,7 @@ Your website should be live and accessible to anyone on the internet 🎉
 **Files copied but website still not showing:**
 - Confirm Apache is running: `systemctl status httpd`
 - Confirm files are in `/var/www/html/` and not a subfolder inside it.
-
----
-
-## 🔭 Next Steps
-
-Once comfortable with this setup, here's how to level up:
-
-- **Add HTTPS** — Get a free SSL certificate using Let's Encrypt + Certbot
-- **Host a Node.js or Python app** — Install Node.js (`yum install nodejs`) or Python and run a dynamic application
-- **Containerize with Docker** — Package your app into a Docker container for portable deployments
-- **Automate with Terraform** — Replace the manual EC2 setup with Infrastructure as Code
-- **Set up CI/CD** — Auto-deploy on every GitHub push using Jenkins or GitHub Actions
-- **Use a Domain Name** — Point a custom domain to your EC2 public IP via Route 53 or any DNS provider
-
----
+----------------------------------------------------------------------------------
 
 ## 👤 Muhammad Azkar
 
