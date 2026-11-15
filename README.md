@@ -22,7 +22,6 @@
 - [Phase 5 — Deploy Website Files](#phase-5--deploy-website-files)
 - [Phase 6 — Start Apache & Go Live](#phase-6--start-apache--go-live)
 - [Common Issues & Fixes](#-common-issues--fixes)
-- [Next Steps](#-next-steps)
 
 ---
 
@@ -234,7 +233,7 @@ cp index.html /var/www/html/
 # Copy folders using -r flag (recursive, for directories)
 cp -r assets/ /var/www/html/
 cp -r images/ /var/www/html/
-cp -r errors/ /var/www/html/
+cp -r error/ /var/www/html/
 ```
 
 > ⚠️ Always use the `-r` flag when copying folders. Without it, the `cp` command only works on single files and will throw an error for directories.
@@ -296,10 +295,15 @@ Your website should be live and accessible to anyone on the internet 🎉
 **Files copied but website still not showing:**
 - Confirm Apache is running: `systemctl status httpd`
 - Confirm files are in `/var/www/html/` and not a subfolder inside it.
-----------------------------------------------------------------------------------
-
-## 👤 Muhammad Azkar
-
-[MY-LINKEDIN](https://www.linkedin.com/in/muhammad-azkar-803672243) ·
 ---
+
+## 👤 Author
+
+**Muhammad Azkar**, AI Automation Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazkar0107) [![GitHub](https://img.shields.io/badge/GitHub-mazkar--224-181717?logo=github&logoColor=white)](https://github.com/mazkar-224)
+
+## 📄 License
+
+[MIT](LICENSE)
 
