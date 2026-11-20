@@ -301,7 +301,7 @@ Your website should be live and accessible to anyone on the internet 🎉
 
 **Muhammad Azkar**, AI Automation Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazkar0107) [![GitHub](https://img.shields.io/badge/GitHub-mazkar--224-181717?logo=github&logoColor=white)](https://github.com/mazkar-224)
+[![Website](https://img.shields.io/badge/Website-mazkar.vercel.app-FF3D2E?logo=googlechrome&logoColor=white)](https://mazkar.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazkar/) [![GitHub](https://img.shields.io/badge/GitHub-mazkar--224-181717?logo=github&logoColor=white)](https://github.com/mazkar-224)
 
 ## 📄 License
 
